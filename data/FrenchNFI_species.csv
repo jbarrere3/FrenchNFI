@@ -1,0 +1,197 @@
+"code" "ESPAR" "latinName" "classification_perso" "to_check"
+"02" "Chêne pédonculé" "Quercus robur" FALSE 0
+"03" "Chêne sessile" "Quercus petraea" FALSE 0
+"04" "Chêne rouge" "Quercus rubra" FALSE 0
+"05" "Chêne pubescent" "Quercus pubescens" FALSE 0
+"06" "Chêne vert" "Quercus ilex" FALSE 0
+"07" "Chêne tauzin" "Quercus toza" FALSE 0
+"08P" "Chêne faux-liège" "Quercus crenata" TRUE 0
+"08S" "Chêne-liège" "Quercus suber" FALSE 0
+"09" "Hêtre" "Fagus sylvatica" FALSE 0
+"10" "Châtaignier" "Castanea sativa" FALSE 0
+"11" "Charme" "Carpinus betulus" FALSE 0
+"12P" "Bouleau pubescent" "Betula pubescens" FALSE 0
+"12V" "Bouleau verruqueux" "Betula pendula" FALSE 0
+"13B" "Aulne blanc" "Alnus incana" FALSE 0
+"13C" "Aulne de Corse" "Alnus cordata" FALSE 0
+"13G" "Aulne glutineux" "Alnus glutinosa" FALSE 0
+"14" "Robinier faux acacia" "Robinia pseudoacacia" FALSE 0
+"15P" "Érable plane" "Acer platanoides" FALSE 0
+"15S" "Érable sycomore" "Acer pseudoplatanus" FALSE 0
+"16" "Micocoulier" "Celtis australis" FALSE 0
+"17C" "Frêne commun" "Fraxinus excelsior" FALSE 0
+"17F" "Frêne à fleur" "Fraxinus ornus" FALSE 0
+"17O" "Frêne oxyphylle" "Fraxinus angustifolia" FALSE 0
+"18C" "Orme champêtre" "Ulmus minor" FALSE 0
+"18D" "Orme lisse" "Ulmus laevis" FALSE 0
+"18M" "Orme de montagne" "Ulmus glabra" FALSE 0
+"19" "Peuplier cultivé" "Populus sp." FALSE 0
+"20G" "Tilleul à grandes feuilles" "Tilia platyphyllos" FALSE 0
+"20P" "Tilleul à petites feuilles" "Tilia cordata" FALSE 0
+"20X" "Tilleul de Hollande" "Tilia x europaea" TRUE 1
+"21C" "Érable champêtre" "Acer campestre" FALSE 0
+"21M" "Érable de Montpellier" "Acer monspessulanum" FALSE 0
+"21O" "Érable à feuilles d'obier" "Acer opalus" FALSE 0
+"22C" "Cerisier" "Prunus cerasus" FALSE 0
+"22G" "Cerisier à grappes" "Prunus padus" FALSE 0
+"22M" "Merisier" "Prunus avium" FALSE 0
+"22S" "Cerisier tardif" "Prunus serotina" FALSE 0
+"23A" "Amandier" "Prunus dulcis" FALSE 0
+"23AB" "Alisier blanc" "Sorbus aria" FALSE 0
+"23AF" "Alisier de Fontainebleau" "Sorbus latifolia" FALSE 0
+"23AM" "Alisier de Mougeot" "Sorbus mougeotii" FALSE 0
+"23C" "Cormier" "Sorbus domestica" FALSE 0
+"23F" "Figuier de Carie" "Ficus carica" FALSE 0
+"23PA" "Poirier à feuilles d'amandier" "Pyrus spinosa" FALSE 0
+"23PC" "Poirier commun" "Pyrus communis" FALSE 0
+"23PD" "Prunier domestique" "Prunus domestica" FALSE 0
+"23PF" "Poirier à feuilles en cœur" "Pyrus cordata" FALSE 0
+"23PM" "Pommier sauvage" "Malus sylvestris" FALSE 0
+"23SF" "Sorbier de Finlande" NA TRUE 1
+"23SO" "Sorbier des oiseleurs" "Sorbus aucuparia" FALSE 0
+"23SS" "Sorbier de Suède" "Sorbus intermedia" TRUE 0
+"24" "Tremble" "Populus tremula" FALSE 0
+"25B" "Saule blanc" "Salix alba" FALSE 0
+"25C" "Saule cendré" "Salix cinerea" FALSE 0
+"25D" "Saule drapé" "Salix eleagnos" FALSE 0
+"25E3" "Saule à trois étamines" "Salix triandra" FALSE 0
+"25E5" "Saule à cinq étamines" "Salix pentandra" TRUE 0
+"25FD" "Saule faux daphné" "Salix daphnoides" FALSE 0
+"25FR" "Saule cassant" "Salix fragilis" FALSE 0
+"25M" "Saule marsault" "Salix caprea" FALSE 0
+"25P" "Saule pédicellé" "Salix pedicellata" TRUE 1
+"25R" "Saule roux" "Salix atrocinerea" FALSE 0
+"25V" "Saule des vanniers" "Salix viminalis" FALSE 0
+"25XR" "Saule rouge" "Salix purpurea" FALSE 0
+"26E" "Platane à feuilles d'érable" "Platanus acerifolia" FALSE 0
+"26OC" "Platane d'Occident" "Platanus occidentalis" FALSE 0
+"26OR" "Platane d'Orient" "Platanus orientalis" TRUE 0
+"27C" "Noyer commun" "Juglans regia" FALSE 0
+"27N" "Noyer noir" "Juglans nigra" FALSE 0
+"28" "Olivier d'Europe" "Olea europea" FALSE 0
+"29AF" "Autre feuillu (espèce ligneuse feuillue sans code espar)" "Other broadleaved" FALSE 0
+"29AI" "Ailante" "Ailanthus altissima" FALSE 0
+"29CA" "Caroubier" "Ceratonia siliqua" TRUE 0
+"29CE" "Chêne écarlate" "Quercus coccinea" TRUE 0
+"29CM" "Chêne des marais" "Quercus palustris" TRUE 0
+"29CT" "Catalpa" "Catalpa bignonioides" TRUE 0
+"29EN" "Érable negundo" "Acer negundo" FALSE 0
+"29FA" "Frêne d'Amérique" "Fraxinus americana" TRUE 0
+"29FI" "Filao" "Casuarina" TRUE 1
+"29LI" "Liquidambar" "Liquidambar styraciflua" TRUE 0
+"29MA" "Marronnier d'Inde" "Aesculus hippocastanum" FALSE 0
+"29MI" "Mimosa" "Mimosa" TRUE 1
+"29PL" "Plaqueminier" "Diospyros kaki" TRUE 0
+"29PT" "Paulownia" "Paulownia tomentosa" TRUE 0
+"29PV" "Pistachier vrai" "Pistacia vera" TRUE 0
+"29TA" "Tilleul d'Amérique du Nord" "Tilia" TRUE 1
+"29TT" "Tilleul argenté" "Tilia tomentosa" TRUE 0
+"29TX" "Tilleul vert" "Tilia" TRUE 1
+"31" "Noisetier coudrier" "Corylus avellana" FALSE 0
+"32" "Charme houblon" "Ostrya carpinifolia" FALSE 0
+"332G" "Peuplier" "Populus" TRUE 1
+"33B" "Peuplier blanc" "Populus alba" FALSE 0
+"33G" "Peuplier grisard" "Populus x canescens" FALSE 0
+"33N" "Peuplier noir" "Populus nigra" FALSE 0
+"34" "Chêne chevelu" "Quercus cerris" FALSE 0
+"36" "Eucalyptus (genre)" "Eucalyptus sp." FALSE 0
+"37" "Aulne vert" "Alnus alnobetula" TRUE 0
+"38AL" "Cytise des alpes" "Laburnum alpinum" FALSE 0
+"38AU" "Cytise aubour" "Laburnum anagyroides" FALSE 0
+"39" "Cornouiller mâle" "Cornus mas" FALSE 0
+"40" "Arbousier" "Arbutus unedo" FALSE 0
+"41" "Alisier torminal" "Sorbus torminalis" FALSE 0
+"42" "Tulipier de Virginie" "Liriodendron tulipifera" FALSE 0
+"49AA" "Aubépine azérolier" "Crataegus azarolus" TRUE 1
+"49AE" "Aubépine épineuse" "Crataegus laevigata" FALSE 0
+"49AM" "Aubépine monogyne" "Crataegus monogyna" FALSE 0
+"49BO" "Bourdaine" "Rhamnus frangula" FALSE 0
+"49BS" "Buis" "Buxus sempervirens" FALSE 0
+"49C" "Cognassier" "Cydonia oblonga" FALSE 0
+"49CA" "Oranger" "Citrus x aurantium" TRUE 0
+"49CM" "Cédratier" "Citrus medica" TRUE 0
+"49CN" "Mandarinier" "Citrus reticulata" TRUE 0
+"49CS" "Arbre de Judée" "Cercis siliquastrum" TRUE 0
+"49EA" "Bruyère arborescente" "Erica arborea" FALSE 0
+"49EV" "Fusain d'Europe" "Euonymus europaeus" FALSE 0
+"49FA" "Filaire à feuilles étroites" "Phillyrea angustifolia" TRUE 0
+"49FL" "Filaire à feuilles larges" "Phillyrea latifolia" FALSE 0
+"49IA" "Houx" "Ilex aquifolium" FALSE 0
+"49KK" "Kaki" "Diospyros kaki" TRUE 0
+"49LN" "Laurier noble" "Laurus nobilis" FALSE 0
+"49MB" "Mûrier blanc" "Morus alba" TRUE 0
+"49MC" "Mûrier de Chine" "Broussonetia papyrifera" TRUE 1
+"49MN" "Mûrier noir" "Morus nigra" TRUE 0
+"49OB" "Olivier de Bohême" "Elaeagnus angustifolia" TRUE 0
+"49OO" "Oranger des Osages" "Maclura pomifera" TRUE 0
+"49PA" "Abricotier" "Prunus armeniaca" FALSE 0
+"49PB" "Prunier de Briançon" "Prunus brigantina" TRUE 0
+"49PC" "Prune-cerise" "Prunus cerasifera" FALSE 0
+"49PL" "Pistachier lentisque" "Pistacia lentiscus" FALSE 0
+"49PM" "Cerisier de Sainte Lucie" "Prunus mahaleb" FALSE 0
+"49PN" "Poirier neigeux" "Pyrus" TRUE 1
+"49PS" "Prunelier" "Prunus spinosa" FALSE 0
+"49PT" "Pistachier térébinthe" "Pistacia terebinthus" FALSE 0
+"49RA" "Nerprun alaterne" "Rhamnus alaternus" FALSE 0
+"49RC" "Nerprun purgatif" "Rhamnus cathartica" FALSE 0
+"49RP" "Nerprun des Alpes" "Rhamnus alpina" FALSE 0
+"49RT" "Sumac de Virginie" "Rhus typhina" TRUE 0
+"49SN" "Sureau noir" "Sambucus nigra" FALSE 0
+"49SR" "Sureau rouge" "Sambucus racemosa" FALSE 0
+"49TA" "Tamaris de France" "Tamarix gallica" TRUE 0
+"49TF" "Tamaris d'Afrique" "Tamarix africana" TRUE 0
+"49TG" "Tamaris de France" "Tamarix gallica" TRUE 0
+"49VV" "Vernis vrai" "Toxicodendron vernicifluum" TRUE 0
+"51" "Pin maritime" "Pinus pinaster" FALSE 0
+"52" "Pin sylvestre" "Pinus sylvestris" FALSE 0
+"53CA" "Pin laricio de Calabre" "Pinus nigra laricio" TRUE 1
+"53CO" "Pin laricio de Corse" "Pinus nigra laricio" FALSE 0
+"53S" "Pin de Salzmann" "Pinus nigra subsp. salzmannii" TRUE 0
+"54" "Pin noir d'Autriche" "Pinus nigra nigra" FALSE 0
+"55" "Pin parasol" "Pinus pinea" FALSE 0
+"56" "Pin Weymouth" "Pinus strobus" FALSE 0
+"57A" "Pin d'Alep" "Pinus halepensis" FALSE 0
+"57B" "Pin brutia (ou) eldarica" "Pinus brutia" TRUE 1
+"58" "Pin à crochets" "Pinus uncinata" FALSE 0
+"59" "Pin cembro" "Pinus cembra" FALSE 0
+"60" "Pin mugo" "Pinus mugo" TRUE 0
+"61" "Sapin pectiné" "Abies alba" FALSE 0
+"62" "Épicéa commun" "Picea abies" FALSE 0
+"63" "Mélèze d'Europe" "Larix decidua" FALSE 0
+"64" "Douglas" "Pseudotsuga menziesii" FALSE 0
+"65" "Cèdre de l'Atlas" "Cedrus atlantica" FALSE 0
+"66" "Cyprès de Provence" "Cupressus sempervirens" FALSE 0
+"67" "If" "Taxus baccata" FALSE 0
+"68CA" "Cyprès de l'Arizona" "Cupressus arizonica" TRUE 0
+"68CB" "Cèdre de Chypre" "Cedrus libani subsp.brevifolia" TRUE 1
+"68CC" "Cyprès chauve" "Taxodium distichum" FALSE 0
+"68CE" "Autre résineux (espèce ligneuse résineuse sans code espar)" "Other coniferous" FALSE 0
+"68CH" "Cèdre de l'Himalaya" "Cedrus deodara" TRUE 0
+"68CJ" "Cryptomère du Japon" "Cryptomeria japonica" TRUE 0
+"68CL" "Cyprès de Lawson" "Chamaecyparis lawsoniana" FALSE 0
+"68CM" "Cyprès de Lambert" "Cupressus macrocarpa" TRUE 0
+"68EO" "Épicéa omorika" "Picea omorika" TRUE 0
+"68PC" "Pin de Murray" "Pinus mugo nothosubsp. rotundata" TRUE 0
+"68PM" "Pin de Monterey" "Pinus radiata" TRUE 0
+"68SC" "Sapin du Colorado" "Abies concolor" TRUE 0
+"68SG" "Séquoia géant" "Sequoiadendron giganteum" FALSE 0
+"68SI" "Sapin de Cilicie" "Abies cilicica" TRUE 0
+"68SV" "Séquoia toujours vert" "Sequoia sempervirens" TRUE 0
+"68TC" "Thuya du Canada" "Thuja occidentalis" TRUE 0
+"68TG" "Thuya géant" "Thuja plicata" FALSE 0
+"68TH" "Tsuga heterophylla" "Tsuga heterophylla" FALSE 0
+"68TS" "Tsuga du Canada" "Tsuga canadensis" TRUE 0
+"69" "Genévrier thurifère" "Juniperus thurifera" TRUE 0
+"69JC" "Genévrier commun" "Juniperus communis" FALSE 0
+"69JO" "Genévrier oxycèdre" "Juniperus oxycedrus" FALSE 0
+"70SB" "Sapin de Turquie" "Abies bornmuelleriana" TRUE 0
+"70SC" "Sapin de Céphalonie" "Abies cephalonica" TRUE 0
+"70SE" "Sapin d'Andalousie" "Abies pinsapo" FALSE 0
+"71" "Sapin de Nordmann" "Abies nordmanniana" FALSE 0
+"72N" "Sapin noble" "Abies procera" TRUE 0
+"72V" "Sapin de Vancouver" "Abies grandis" FALSE 0
+"73" "Épicéa de Sitka" "Picea sitchensis" FALSE 0
+"74H" "Mélèze hybride" "Larix x marschlinsii" FALSE 0
+"74J" "Mélèze du Japon" "Larix kaempferi" FALSE 0
+"76" "Cèdre du Liban" "Cedrus libani" TRUE 0
+"77" "Pin à l'encens et hybrides" "Pinus taeda" FALSE 0
