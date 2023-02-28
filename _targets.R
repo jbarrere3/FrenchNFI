@@ -38,8 +38,8 @@ list(
   tar_target(files, get_FrenchNFI(), format = "file"), 
   
   # Load raw data
-  tar_target(FrenchNFI_tree_raw, fread(files[1])), 
-  tar_target(FrenchNFI_plot_raw, fread(files[6])), 
+  tar_target(FrenchNFI_tree_raw, fread(files[grep("ARBRE", files)])), 
+  tar_target(FrenchNFI_plot_raw, fread(files[grep("PLACETTE", files)])), 
   tar_target(FrenchNFI_species, fread("data/FrenchNFI_species.csv")), 
   
   # Format raw data 
