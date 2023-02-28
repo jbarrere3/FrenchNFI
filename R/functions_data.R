@@ -177,6 +177,7 @@ format_FrenchNFI_tree_to_FUNDIV <- function(FrenchNFI, FrenchNFI_species){
     left_join(FrenchNFI_species %>%
                 dplyr::select(code, latinName), 
               by = c("sp_code" = "code")) %>%
+    mutate(plotcode = as.character(plotcode)) %>%
     dplyr::select(treecode, plotcode, species = latinName, treestatus, dbh1, dbh2, 
                   height1, height2, ba1, ba_ha1, ba2, ba_ha2, bachange_ha_yr, 
                   weight1, weight2, country)
@@ -234,6 +235,7 @@ format_FrenchNFI_plot_to_FUNDIV <- function(FrenchNFI, FUNDIV_tree_FR_raw){
   
   # Finish formating
   out <- out %>%
+    mutate(plotcode = as.character(plotcode)) %>%
     left_join(out.management.weight, by = "plotcode") %>%
     dplyr::select(plotcode, cluster, country, longitude, latitude, 
                   yearsbetweensurveys, surveydate1, surveydate2, biome, 
